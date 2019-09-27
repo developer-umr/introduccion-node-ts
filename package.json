@@ -1,0 +1,21 @@
+{
+    "name": "introduccion-node-ts",
+    "version": "1.0.0",
+    "description": "Introducción a node con typescript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/developer-umr/introduccion-node-ts.git"
+    },
+    "keywords": [],
+    "author": "Uriel Manzano Ruiz <developer.umr@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/developer-umr/introduccion-node-ts/issues"
+    },
+    "homepage": "https://github.com/developer-umr/introduccion-node-ts#readme"
+}
